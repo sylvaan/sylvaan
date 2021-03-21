@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sylvaan
-- 👀 I’m interested in Anything I can try to get my hands on
-- 🌱 I’m currently learning Software Engineering
+- 👋 Hi, I’m Ahmad Ridhwan Naufal
+- 🌱 I’m currently a Software Engineering Student at Bina Nusantara University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
